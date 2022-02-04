@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Clothes shop WEB APP
 
 Project about e-commerce
 This project i train about react js ,redux, fetch api basic
